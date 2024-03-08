@@ -1,3 +1,8 @@
+#Let D be the daily demand of a company measured in tons (t).
+# It is known that D follows a normal distribution, and in a survey of 360 days, the following data was obtained:
+# Average daily demand = 480 t/day and Standard deviation = 200 t/day.
+# For this demand, determine confidence intervals (CI) at confidence levels of 90%, 95%, and 99.9%.
+
 # Importing scipy.stats for necessary calculations - provides statistical functions
 import scipy.stats as stats
 
